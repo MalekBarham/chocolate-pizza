@@ -1,0 +1,178 @@
+
+.header h1 { color: beige;
+    padding: 5px;
+    
+
+    }
+ .nav {
+     padding: margin;
+
+    color: antiquewhite;
+ }
+ .header {background-color: antiquewhite;
+    text-align: center;
+ 
+
+ }
+
+main p1  {
+    color: rgb(7, 6, 7);
+    font-size: large;
+    font-family: cursive;
+}
+main p2 { 
+    color: rgb(2, 2, 2);
+    font-size: large;
+    font-family: cursive;
+}
+main p3 {
+    color: rgb(0, 0, 0);
+    font-size: larger;
+    font-family:cursive;
+}
+
+.bord{
+    background-image: url('../images/hr-img.png');
+}
+.title{
+    padding-left: 260px;
+    margin-top: -50px;
+    font-weight: bold;
+    font-family:'Pacifico', cursive;
+    ;
+}
+
+.subTitle{
+
+    font-family: 'Oxanium', cursive;
+color: gray;
+padding-left: 260px;
+margin-top: -20px;    
+}
+
+.headerPhotos{
+/*margin-left: 8800px;*/
+float: right;
+/*position:absolute;*/
+margin-top: -50px;
+}
+
+header{
+    width: 1090px;
+}
+
+.mainPhoto{
+    /*position: center;*/
+    margin: auto;
+    display: block;
+    padding-top: 200px;
+}
+
+
+.mainnheader{
+   margin-top: 200px;
+   font-family: 'Oxanium', cursive;
+font-family: 'Fjalla One', sans-serif;
+font-weight: bold;
+   
+}
+
+.subheader{
+    font-family: 'Oxanium', cursive;
+    color: lightgray;
+
+}
+
+/*.prinPhoto{
+
+
+}*/
+
+.myform{
+    height: 600px;
+    width: 700px;
+    background-image:url("../images/list-bg.png"); 
+    height: 600px;
+    width: 900px;
+    background-size: cover;
+    display: align center;
+    background-repeat: no-repeat;
+    position: center;
+    text-align: center;
+    margin-left: 12em;
+   
+
+}
+
+
+
+
+.left{
+    display: inline-grid;
+    float: left;
+}
+
+.right{float: right;
+    display: inline-grid;
+}
+.header{
+    width: 1064px;
+    margin-left: 125px;
+    margin-right: 0px;
+    padding-top: 30px;
+}
+.container{
+    width: 1090px;
+}
+h1 p {
+    color: antiquewhite; 
+
+}
+.center {
+    color :azure
+}
+
+h3.widget-title:before {
+    content: url('images/van-pic.png');
+    width: 1064px;
+    margin-left: 25px;
+    margin-right: 0px;
+    padding-top: 0px;
+    text-overflow: clip;
+
+}
+
+form.p{
+    font-size: medium;
+   font-family:fantasy;
+   
+}
+
+h4.share:before {
+    content: url('images/share-recipe.png');
+    
+    width: 1064px;
+    margin-left: 25px;
+    margin-right: 850px;
+    padding-top: -10px; 
+    text-overflow: clip;
+}
+
+h4.small-logo:before {
+    content: url('images/small-logo.png');
+    
+    width: 500px;
+    margin-left: 25px;
+    margin-right: 600px;
+    padding-top: 0px; 
+    text-overflow: clip;
+}
+
+h3 p {
+    position: absolute;
+    margin-top: -3em;
+    margin-left: 6em;
+
+
+
+}
